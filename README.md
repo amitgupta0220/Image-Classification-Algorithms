@@ -7,4 +7,6 @@
 - Later link the colab notebook with the drive in order to use it
 
 Here is the link for the Blog post : https://medium.com/@testing.debugging111/image-classification-techniques-and-comparison-35de77dc2522
+
+
 Link for the youtube video : https://youtu.be/j4n1VP5HpjY
